@@ -1,0 +1,1172 @@
+[
+  {
+    "modelName": "Realistic Vision V6.0 B1(4201)",
+    "versionName": "V5.1 Hyper (VAE)",
+    "createdBy": "SG_161222",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5403901a-3e55-4aa2-b1a5-958aba35223b/width=450/12221833.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9f5a2aaf-4657-4670-50e7-0e7da58ebb00/width=96/SG_161222.jpeg",
+    "baseModel": "SD 1.5 Hyper",
+    "tags": [
+      "photorealistic",
+      "anatomical",
+      "base model",
+      "cgi",
+      "realistic",
+      "semi-realistic"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/501240",
+    "meta": "unreal engine 5 render, jungle, river, flowers, extremely detailed, colorful\nNegative prompt: (nsfw, naked, nude, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, disconnected limbs, mutation, mutated, ugly, disgusting, amputation\nSteps: 6, Size: 512x768, Seed: 3639649241, Sampler: DPM++ SDE Karras, CFG scale: 1.5, Clip skip: , Hires Upscaler: 4x_NMKD-Superscale-SP_178000_G",
+    "imageId": 12221839,
+    "modelVersions": [
+      {
+        "versionName": "V5.1 Hyper (VAE)(501240)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=501240",
+        "publishedAt": "2024-05-12T06:24:13.109Z",
+        "downloadUrl": "https://civitai.com/api/download/models/501240"
+      },
+      {
+        "versionName": "V5.1 Hyper-Inpaint (VAE)(501286)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=501286",
+        "publishedAt": "2024-05-12T07:02:08.427Z",
+        "downloadUrl": "https://civitai.com/api/download/models/501286"
+      },
+      {
+        "versionName": "V5.1 (VAE)(130072)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=130072",
+        "publishedAt": "2023-07-31T08:27:16.052Z",
+        "downloadUrl": "https://civitai.com/api/download/models/130072"
+      },
+      {
+        "versionName": "V5.1-inpainting (VAE)(130090)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=130090",
+        "publishedAt": "2023-07-31T09:03:08.591Z",
+        "downloadUrl": "https://civitai.com/api/download/models/130090"
+      },
+      {
+        "versionName": "V6.0 B1 (VAE)(245598)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=245598",
+        "publishedAt": "2023-12-01T10:38:31.058Z",
+        "downloadUrl": "https://civitai.com/api/download/models/245598"
+      },
+      {
+        "versionName": "V6.0 B1 inpainting (VAE)(245627)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=245627",
+        "publishedAt": "2023-12-01T10:52:27.457Z",
+        "downloadUrl": "https://civitai.com/api/download/models/245627"
+      },
+      {
+        "versionName": "V5.0 (VAE)(125411)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=125411",
+        "publishedAt": "2023-07-25T08:20:35.205Z",
+        "downloadUrl": "https://civitai.com/api/download/models/125411"
+      },
+      {
+        "versionName": "V5.0-inpainting (VAE)(125437)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=125437",
+        "publishedAt": "2023-07-25T09:00:17.965Z",
+        "downloadUrl": "https://civitai.com/api/download/models/125437"
+      },
+      {
+        "versionName": "V4.0 (VAE)(114367)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=114367",
+        "publishedAt": "2023-07-10T08:28:12.507Z",
+        "downloadUrl": "https://civitai.com/api/download/models/114367"
+      },
+      {
+        "versionName": "V4.0-inpainting (VAE)(114600)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=114600",
+        "publishedAt": "2023-07-10T15:23:38.001Z",
+        "downloadUrl": "https://civitai.com/api/download/models/114600"
+      },
+      {
+        "versionName": "V3.0 (VAE)(105674)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=105674",
+        "publishedAt": "2023-06-28T07:51:05.584Z",
+        "downloadUrl": "https://civitai.com/api/download/models/105674"
+      },
+      {
+        "versionName": "V3.0-inpainting (VAE)(105723)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=105723",
+        "publishedAt": "2023-06-28T09:27:31.011Z",
+        "downloadUrl": "https://civitai.com/api/download/models/105723"
+      },
+      {
+        "versionName": "V3.0 (noVAE)(106399)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=106399",
+        "publishedAt": "2023-06-29T06:52:10.407Z",
+        "downloadUrl": "https://civitai.com/api/download/models/106399"
+      },
+      {
+        "versionName": "V3.0-inpainting (noVAE)(106412)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=106412",
+        "publishedAt": "2023-06-29T07:28:58.345Z",
+        "downloadUrl": "https://civitai.com/api/download/models/106412"
+      },
+      {
+        "versionName": "V2.0 (noVAE)(29460)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=29460",
+        "publishedAt": "2023-03-26T10:47:28.164Z",
+        "downloadUrl": "https://civitai.com/api/download/models/29460"
+      },
+      {
+        "versionName": "V2.0-inpainting (noVAE)(29461)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=29461",
+        "publishedAt": "2023-03-26T10:47:28.164Z",
+        "downloadUrl": "https://civitai.com/api/download/models/29461"
+      },
+      {
+        "versionName": "V1.3(6987)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=6987",
+        "publishedAt": "2023-01-31T11:47:38.020Z",
+        "downloadUrl": "https://civitai.com/api/download/models/6987"
+      },
+      {
+        "versionName": "V1.3-inpainting(7935)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=7935",
+        "publishedAt": "2023-02-05T06:36:50.061Z",
+        "downloadUrl": "https://civitai.com/api/download/models/7935"
+      },
+      {
+        "versionName": "V1.2(5196)",
+        "modalUrl": "https://civitai.com/models/4201?modelVersionId=5196",
+        "publishedAt": "2023-01-15T13:27:49.584Z",
+        "downloadUrl": "https://civitai.com/api/download/models/5196"
+      }
+    ]
+  },
+  {
+    "modelName": "ChilloutMix(6424)",
+    "versionName": "Chilloutmix-Ni-pruned-fp32-fix",
+    "createdBy": "N/A",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c0ede51-3213-4f2c-0c7b-c32bc59a6f00/width=450/112157.jpeg",
+    "nsfw": true,
+    "ratingCount": 0,
+    "creatorImageUrl": "N/A",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "photorealistic",
+      "porn",
+      "dreamlikeart",
+      "base model",
+      "sex"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/11745",
+    "meta": "No metadata available for this model.",
+    "imageId": null,
+    "modelVersions": [
+      {
+        "versionName": "Chilloutmix-Ni-pruned-fp32-fix(11745)",
+        "modalUrl": "https://civitai.com/models/6424?modelVersionId=11745",
+        "publishedAt": "2023-03-01T17:13:02.996Z",
+        "downloadUrl": "https://civitai.com/api/download/models/11745"
+      },
+      {
+        "versionName": "Chilloutmix-Ni-pruned-fp16-fix(11732)",
+        "modalUrl": "https://civitai.com/models/6424?modelVersionId=11732",
+        "publishedAt": "2023-03-01T17:13:02.996Z",
+        "downloadUrl": "https://civitai.com/api/download/models/11732"
+      },
+      {
+        "versionName": "Chilloutmix-Ni-pruned-fp 32(9475)",
+        "modalUrl": "https://civitai.com/models/6424?modelVersionId=9475",
+        "publishedAt": "2023-03-01T17:13:02.996Z",
+        "downloadUrl": "https://civitai.com/api/download/models/9475"
+      },
+      {
+        "versionName": "Chilloutmix-Ni-pruned-fp 16(9474)",
+        "modalUrl": "https://civitai.com/models/6424?modelVersionId=9474",
+        "publishedAt": "2023-03-01T17:13:02.996Z",
+        "downloadUrl": "https://civitai.com/api/download/models/9474"
+      },
+      {
+        "versionName": "Chilloutmix-Ni(8958)",
+        "modalUrl": "https://civitai.com/models/6424?modelVersionId=8958",
+        "publishedAt": "2023-03-01T17:13:02.996Z",
+        "downloadUrl": "https://civitai.com/api/download/models/8958"
+      },
+      {
+        "versionName": "Chilloutmix(7543)",
+        "modalUrl": "https://civitai.com/models/6424?modelVersionId=7543",
+        "publishedAt": "2023-03-01T17:13:02.996Z",
+        "downloadUrl": "https://civitai.com/api/download/models/7543"
+      }
+    ]
+  },
+  {
+    "modelName": "DreamShaper(4384)",
+    "versionName": "8",
+    "createdBy": "Lykon",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd9b038c-bd15-43ab-86ab-66e145ad7ff2/width=450/1777041.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://cdn.discordapp.com/avatars/180327464155742208/59254be18ccd627daf138d053327485d.png",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "anime",
+      "landscapes",
+      "3d",
+      "photorealistic",
+      "inpainting",
+      "digital art",
+      "scifi",
+      "base model",
+      "fantasy art",
+      "art style",
+      "paintings",
+      "woman",
+      "illustration",
+      "2d",
+      "digital illustration",
+      "fantasy",
+      "girls",
+      "portraits",
+      "realistic",
+      "video game"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/128713",
+    "meta": "No metadata available for this model.",
+    "imageId": null,
+    "modelVersions": [
+      {
+        "versionName": "8(128713)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=128713",
+        "publishedAt": "2023-07-29T20:50:47.173Z",
+        "downloadUrl": "https://civitai.com/api/download/models/128713"
+      },
+      {
+        "versionName": "8 LCM(252914)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=252914",
+        "publishedAt": "2023-12-06T21:31:32.438Z",
+        "downloadUrl": "https://civitai.com/api/download/models/252914"
+      },
+      {
+        "versionName": "8-inpainting(131004)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=131004",
+        "publishedAt": "2023-08-01T13:41:14.861Z",
+        "downloadUrl": "https://civitai.com/api/download/models/131004"
+      },
+      {
+        "versionName": "8-diffusers(303662)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=303662",
+        "publishedAt": "2024-01-18T15:57:57.151Z",
+        "downloadUrl": "https://civitai.com/api/download/models/303662"
+      },
+      {
+        "versionName": "7(109123)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=109123",
+        "publishedAt": "2023-07-03T08:02:49.568Z",
+        "downloadUrl": "https://civitai.com/api/download/models/109123"
+      },
+      {
+        "versionName": "7-inpainting(110021)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=110021",
+        "publishedAt": "2023-07-04T11:16:20.119Z",
+        "downloadUrl": "https://civitai.com/api/download/models/110021"
+      },
+      {
+        "versionName": "7-diffusers(111861)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=111861",
+        "publishedAt": "2023-07-08T13:32:55.308Z",
+        "downloadUrl": "https://civitai.com/api/download/models/111861"
+      },
+      {
+        "versionName": "6.31 baked vae(94081)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=94081",
+        "publishedAt": "2023-06-11T21:12:00.676Z",
+        "downloadUrl": "https://civitai.com/api/download/models/94081"
+      },
+      {
+        "versionName": "6.31-inpainting(95087)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=95087",
+        "publishedAt": "2023-06-13T11:22:37.519Z",
+        "downloadUrl": "https://civitai.com/api/download/models/95087"
+      },
+      {
+        "versionName": "6.31 diffusers(96894)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=96894",
+        "publishedAt": "2023-06-15T23:22:04.323Z",
+        "downloadUrl": "https://civitai.com/api/download/models/96894"
+      },
+      {
+        "versionName": "6 baked vae(78164)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=78164",
+        "publishedAt": "2023-05-23T16:35:06.352Z",
+        "downloadUrl": "https://civitai.com/api/download/models/78164"
+      },
+      {
+        "versionName": "6.2 baked vae(88504)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=88504",
+        "publishedAt": "2023-06-03T17:47:26.013Z",
+        "downloadUrl": "https://civitai.com/api/download/models/88504"
+      },
+      {
+        "versionName": "6-inpainting(81594)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=81594",
+        "publishedAt": "2023-05-26T09:24:50.429Z",
+        "downloadUrl": "https://civitai.com/api/download/models/81594"
+      },
+      {
+        "versionName": "6 no vae(80261)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=80261",
+        "publishedAt": "2023-05-25T01:15:37.897Z",
+        "downloadUrl": "https://civitai.com/api/download/models/80261"
+      },
+      {
+        "versionName": "6 diffusers(85362)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=85362",
+        "publishedAt": "2023-05-30T09:11:38.063Z",
+        "downloadUrl": "https://civitai.com/api/download/models/85362"
+      },
+      {
+        "versionName": "5 baked vae(43888)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=43888",
+        "publishedAt": "2023-04-12T17:24:46.418Z",
+        "downloadUrl": "https://civitai.com/api/download/models/43888"
+      },
+      {
+        "versionName": "5 pruned (no vae) - train(60001)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=60001",
+        "publishedAt": "2023-05-01T18:45:54.523Z",
+        "downloadUrl": "https://civitai.com/api/download/models/60001"
+      },
+      {
+        "versionName": "5-inpainting(51767)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=51767",
+        "publishedAt": "2023-04-21T19:46:00.365Z",
+        "downloadUrl": "https://civitai.com/api/download/models/51767"
+      },
+      {
+        "versionName": "5 baked vae diffusers(74772)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=74772",
+        "publishedAt": "2023-05-19T09:12:50.654Z",
+        "downloadUrl": "https://civitai.com/api/download/models/74772"
+      },
+      {
+        "versionName": "4 baked vae(24365)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=24365",
+        "publishedAt": "2023-03-16T23:30:11.603Z",
+        "downloadUrl": "https://civitai.com/api/download/models/24365"
+      },
+      {
+        "versionName": "4-inpainting(25555)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=25555",
+        "publishedAt": "2023-03-19T09:34:03.386Z",
+        "downloadUrl": "https://civitai.com/api/download/models/25555"
+      },
+      {
+        "versionName": "4 baked vae fp16(25067)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=25067",
+        "publishedAt": "2023-03-18T12:44:39.101Z",
+        "downloadUrl": "https://civitai.com/api/download/models/25067"
+      },
+      {
+        "versionName": "4 no vae(24552)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=24552",
+        "publishedAt": "2023-03-17T09:13:01.085Z",
+        "downloadUrl": "https://civitai.com/api/download/models/24552"
+      },
+      {
+        "versionName": "4 no vae fp16(32371)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=32371",
+        "publishedAt": "2023-03-31T07:29:18.286Z",
+        "downloadUrl": "https://civitai.com/api/download/models/32371"
+      },
+      {
+        "versionName": "3.32 baked vae (clip fix)(6202)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=6202",
+        "publishedAt": "2023-01-26T13:47:15.027Z",
+        "downloadUrl": "https://civitai.com/api/download/models/6202"
+      },
+      {
+        "versionName": "3.31 baked vae(5636)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=5636",
+        "publishedAt": "2023-01-20T14:02:26.410Z",
+        "downloadUrl": "https://civitai.com/api/download/models/5636"
+      },
+      {
+        "versionName": "3.31-inpainting(12332)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=12332",
+        "publishedAt": "2023-02-18T23:16:36.414Z",
+        "downloadUrl": "https://civitai.com/api/download/models/12332"
+      },
+      {
+        "versionName": "3.3(5213)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=5213",
+        "publishedAt": "2023-01-15T17:58:22.363Z",
+        "downloadUrl": "https://civitai.com/api/download/models/5213"
+      },
+      {
+        "versionName": "2.52 (safetensors fixed)(4990)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=4990",
+        "publishedAt": "2023-01-12T14:32:21.964Z",
+        "downloadUrl": "https://civitai.com/api/download/models/4990"
+      },
+      {
+        "versionName": "2.52 (pruned)(4993)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=4993",
+        "publishedAt": "2023-01-12T16:08:10.137Z",
+        "downloadUrl": "https://civitai.com/api/download/models/4993"
+      },
+      {
+        "versionName": "2.52 (initial release)(4950)",
+        "modalUrl": "https://civitai.com/models/4384?modelVersionId=4950",
+        "publishedAt": "2023-01-12T01:31:27.233Z",
+        "downloadUrl": "https://civitai.com/api/download/models/4950"
+      }
+    ]
+  },
+  {
+    "modelName": "majicMIX realistic \u9ea6\u6a58\u5199\u5b9e(43331)",
+    "versionName": "v7",
+    "createdBy": "Merjic",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4fd40408-f963-4d2d-8caa-8d3f176139cf/width=450/2805533.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be86c979-7730-4076-bdee-d62e1681f97a/width=96/Merjic.jpeg",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "base model",
+      "asian",
+      "realistic",
+      "photoralistic"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/176425",
+    "meta": "best quality, masterpiece, (photorealistic:1.4), 1girl, light smile, shirt with collars, waist up, dramatic lighting, from below\nNegative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome\nSteps: 30, Size: 512x768, Seed: 3698311310, Sampler: Euler, CFG scale: 7, Clip skip: 2, Hires Upscaler: 8x_NMKD-Superscale_150000_G",
+    "imageId": 1121958,
+    "modelVersions": [
+      {
+        "versionName": "v7(176425)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=176425",
+        "publishedAt": "2023-10-05T13:31:16.745Z",
+        "downloadUrl": "https://civitai.com/api/download/models/176425"
+      },
+      {
+        "versionName": "v7 inpainting(221343)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=221343",
+        "publishedAt": "2023-11-11T16:15:55.231Z",
+        "downloadUrl": "https://civitai.com/api/download/models/221343"
+      },
+      {
+        "versionName": "BETTER v2 = v2.5(126470)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=126470",
+        "publishedAt": "2023-07-26T16:51:55.604Z",
+        "downloadUrl": "https://civitai.com/api/download/models/126470"
+      },
+      {
+        "versionName": "v6(94640)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=94640",
+        "publishedAt": "2023-06-12T17:02:11.254Z",
+        "downloadUrl": "https://civitai.com/api/download/models/94640"
+      },
+      {
+        "versionName": "v5(82446)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=82446",
+        "publishedAt": "2023-05-27T06:22:56.036Z",
+        "downloadUrl": "https://civitai.com/api/download/models/82446"
+      },
+      {
+        "versionName": "v5 preview(79068)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=79068",
+        "publishedAt": "2023-05-23T17:42:02.178Z",
+        "downloadUrl": "https://civitai.com/api/download/models/79068"
+      },
+      {
+        "versionName": "v4(55911)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=55911",
+        "publishedAt": "2023-04-26T17:28:38.400Z",
+        "downloadUrl": "https://civitai.com/api/download/models/55911"
+      },
+      {
+        "versionName": "v3(55620)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=55620",
+        "publishedAt": "2023-04-26T08:09:52.436Z",
+        "downloadUrl": "https://civitai.com/api/download/models/55620"
+      },
+      {
+        "versionName": "v2(48289)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=48289",
+        "publishedAt": "2023-04-26T08:44:49.983Z",
+        "downloadUrl": "https://civitai.com/api/download/models/48289"
+      },
+      {
+        "versionName": "v1(47968)",
+        "modalUrl": "https://civitai.com/models/43331?modelVersionId=47968",
+        "publishedAt": "2023-11-21T21:33:59.298Z",
+        "downloadUrl": "https://civitai.com/api/download/models/47968"
+      }
+    ]
+  },
+  {
+    "modelName": "Uber Realistic Porn Merge (URPM) [LEGACY Version](2661)",
+    "versionName": "URPMv1.3",
+    "createdBy": "saftle",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dc03c869-cceb-4f1a-3fa1-e6850627ba00/width=450/156234.jpeg",
+    "nsfw": true,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75d8cb58-2ddf-40b0-7399-3b05612cee00/width=96/saftle.jpeg",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "person",
+      "photorealistic",
+      "sexy",
+      "blend",
+      "hardcore",
+      "porn",
+      "lewd",
+      "base model",
+      "vagina",
+      "nudes",
+      "woman",
+      "sex",
+      "fantasy",
+      "girls",
+      "photography",
+      "portraits",
+      "realistic",
+      "women"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/15640",
+    "meta": "inpainting model\nNegative prompt: \nSteps: 20, Size: 512x512, Seed: 630002273, Sampler: Euler a, CFG scale: 7, Clip skip: , Hires Upscaler: ",
+    "imageId": 35997,
+    "modelVersions": [
+      {
+        "versionName": "URPMv1.3(15640)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=15640",
+        "publishedAt": "2023-02-26T10:32:01.540Z",
+        "downloadUrl": "https://civitai.com/api/download/models/15640"
+      },
+      {
+        "versionName": "URPMv1.3.inpainting(15670)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=15670",
+        "publishedAt": "2023-02-26T11:32:01.342Z",
+        "downloadUrl": "https://civitai.com/api/download/models/15670"
+      },
+      {
+        "versionName": "URPMv1.3.instruct-pix2pix(15713)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=15713",
+        "publishedAt": "2023-02-26T13:16:49.025Z",
+        "downloadUrl": "https://civitai.com/api/download/models/15713"
+      },
+      {
+        "versionName": "URPMv1.2(4971)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=4971",
+        "publishedAt": "2023-01-12T06:11:54.079Z",
+        "downloadUrl": "https://civitai.com/api/download/models/4971"
+      },
+      {
+        "versionName": "URPMv1.2.instruct-pix2pix(9064)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=9064",
+        "publishedAt": "2023-02-09T20:40:23.290Z",
+        "downloadUrl": "https://civitai.com/api/download/models/9064"
+      },
+      {
+        "versionName": "URPMv1.2-inpainting(4970)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=4970",
+        "publishedAt": "2023-01-12T05:56:34.905Z",
+        "downloadUrl": "https://civitai.com/api/download/models/4970"
+      },
+      {
+        "versionName": "URPMv1.1(4212)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=4212",
+        "publishedAt": "2023-01-03T23:53:26.096Z",
+        "downloadUrl": "https://civitai.com/api/download/models/4212"
+      },
+      {
+        "versionName": "URPMv1(2949)",
+        "modalUrl": "https://civitai.com/models/2661?modelVersionId=2949",
+        "publishedAt": "2022-12-27T02:23:05.756Z",
+        "downloadUrl": "https://civitai.com/api/download/models/2949"
+      }
+    ]
+  },
+  {
+    "modelName": "Juggernaut XL(133005)",
+    "versionName": "Jugg_X_RunDiffusion_Hyper",
+    "createdBy": "KandooAI",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/241480f6-2ada-4921-8328-a229d720f5cf/width=450/10895925.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8134e671-a860-46ad-0400-1fc83e4f7200/width=96/KandooAI.jpeg",
+    "baseModel": "SDXL Hyper",
+    "tags": [
+      "photorealistic",
+      "base model",
+      "photo",
+      "cinematic",
+      "characters",
+      "nsfw"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/471120",
+    "meta": "moody aesthetic, beautiful cozy, cramped bedroom with floor to ceiling glass windows overlooking a cyberpunk city at night, view from top of skyscraper, white bedsheets, bookshelves, thunderstorm outside with torrential rain, detailed, high resolution, photorrealistic, dark, gloomy,\nNegative prompt: CGI, Unreal, Airbrushed, Digital\nSteps: 5, Size: 832x1216, Seed: 4236648274, Sampler: DPM++ SDE, CFG scale: 2, Clip skip: , Hires Upscaler: 4x_NMKD-Siax_200k",
+    "imageId": 7022347,
+    "modelVersions": [
+      {
+        "versionName": "Jugg_X_RunDiffusion_Hyper(471120)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=471120",
+        "publishedAt": "2024-04-27T15:30:59.477Z",
+        "downloadUrl": "https://civitai.com/api/download/models/471120"
+      },
+      {
+        "versionName": "Juggernaut_X_RunDiffusion(456194)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=456194",
+        "publishedAt": "2024-04-19T22:00:02.343Z",
+        "downloadUrl": "https://civitai.com/api/download/models/456194"
+      },
+      {
+        "versionName": "V9+RDPhoto2-Lightning_4S(357609)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=357609",
+        "publishedAt": "2024-02-23T21:20:12.392Z",
+        "downloadUrl": "https://civitai.com/api/download/models/357609"
+      },
+      {
+        "versionName": "V9 + RunDiffusionPhoto 2(348913)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=348913",
+        "publishedAt": "2024-02-18T08:42:59.376Z",
+        "downloadUrl": "https://civitai.com/api/download/models/348913"
+      },
+      {
+        "versionName": "V 8 + RunDiffusion(288982)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=288982",
+        "publishedAt": "2024-01-06T19:35:51.086Z",
+        "downloadUrl": "https://civitai.com/api/download/models/288982"
+      },
+      {
+        "versionName": "V 7 + RunDiffusion(240840)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=240840",
+        "publishedAt": "2023-11-27T11:29:13.838Z",
+        "downloadUrl": "https://civitai.com/api/download/models/240840"
+      },
+      {
+        "versionName": "V7 FP16 VAE Fix(252902)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=252902",
+        "publishedAt": "2023-12-06T21:05:05.322Z",
+        "downloadUrl": "https://civitai.com/api/download/models/252902"
+      },
+      {
+        "versionName": "Version 6 + RunDiffusion(198530)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=198530",
+        "publishedAt": "2023-10-25T17:14:39.307Z",
+        "downloadUrl": "https://civitai.com/api/download/models/198530"
+      },
+      {
+        "versionName": "Version 5(166909)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=166909",
+        "publishedAt": "2023-09-21T21:33:23.861Z",
+        "downloadUrl": "https://civitai.com/api/download/models/166909"
+      },
+      {
+        "versionName": "Version 4.5(162509)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=162509",
+        "publishedAt": "2023-09-15T16:25:40.050Z",
+        "downloadUrl": "https://civitai.com/api/download/models/162509"
+      },
+      {
+        "versionName": "Version 4 (NSFW)(161185)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=161185",
+        "publishedAt": "2023-09-13T18:49:44.920Z",
+        "downloadUrl": "https://civitai.com/api/download/models/161185"
+      },
+      {
+        "versionName": "Version 3(156005)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=156005",
+        "publishedAt": "2023-09-05T21:44:10.237Z",
+        "downloadUrl": "https://civitai.com/api/download/models/156005"
+      },
+      {
+        "versionName": "Version 2(152076)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=152076",
+        "publishedAt": "2023-08-30T22:51:38.787Z",
+        "downloadUrl": "https://civitai.com/api/download/models/152076"
+      },
+      {
+        "versionName": "Version 1(146359)",
+        "modalUrl": "https://civitai.com/models/133005?modelVersionId=146359",
+        "publishedAt": "2023-08-22T22:20:58.819Z",
+        "downloadUrl": "https://civitai.com/api/download/models/146359"
+      }
+    ]
+  },
+  {
+    "modelName": "epiCRealism(25694)",
+    "versionName": "Natural Sin RC1 VAE",
+    "createdBy": "epinikion",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3822f91b-5f4e-4df6-8934-2a453f13b40e/width=450/2103034.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/529b3628-8929-4ef6-b63f-16d2999faa41/width=96/epinikion.jpeg",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "photorealistic",
+      "female",
+      "analog",
+      "realism",
+      "base model",
+      "portrait",
+      "raw photo",
+      "woman",
+      "photography",
+      "photorealism",
+      "realistic",
+      "photoshoot",
+      "natural colors"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/143906",
+    "meta": "polaroid photo, night photo, photo of 24 y.o beautiful woman, pale skin, bokeh, motion blur\nNegative prompt: (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, disconnected limbs, mutation, mutated, ugly, disgusting, amputation\nSteps: 25, Size: 640x960, Seed: 144278541, Sampler: DPM++ SDE Karras, CFG scale: 7, Clip skip: , Hires Upscaler: 4x_NMKD-Superscale-SP_178000_G",
+    "imageId": 2103034,
+    "modelVersions": [
+      {
+        "versionName": "Natural Sin RC1 VAE(143906)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=143906",
+        "publishedAt": "2023-08-22T13:05:17.906Z",
+        "downloadUrl": "https://civitai.com/api/download/models/143906"
+      },
+      {
+        "versionName": "Natural Sin(160989)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=160989",
+        "publishedAt": "2023-09-13T14:06:56.321Z",
+        "downloadUrl": "https://civitai.com/api/download/models/160989"
+      },
+      {
+        "versionName": "pure Evolution V5(134065)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=134065",
+        "publishedAt": "2023-08-22T09:59:34.494Z",
+        "downloadUrl": "https://civitai.com/api/download/models/134065"
+      },
+      {
+        "versionName": "pure Evolution V5-inpainting(134361)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=134361",
+        "publishedAt": "2023-08-22T09:59:46.617Z",
+        "downloadUrl": "https://civitai.com/api/download/models/134361"
+      },
+      {
+        "versionName": "Natural Sin RC1(143497)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=143497",
+        "publishedAt": "2023-08-23T05:15:56.836Z",
+        "downloadUrl": "https://civitai.com/api/download/models/143497"
+      },
+      {
+        "versionName": "pure Evolution V4(127742)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=127742",
+        "publishedAt": "2023-08-22T09:59:50.217Z",
+        "downloadUrl": "https://civitai.com/api/download/models/127742"
+      },
+      {
+        "versionName": "pure Evolution V3(105035)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=105035",
+        "publishedAt": "2023-08-22T09:59:55.242Z",
+        "downloadUrl": "https://civitai.com/api/download/models/105035"
+      },
+      {
+        "versionName": "pure Evolution V3.5 Colorfix(119609)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=119609",
+        "publishedAt": "2023-08-22T09:59:59.432Z",
+        "downloadUrl": "https://civitai.com/api/download/models/119609"
+      },
+      {
+        "versionName": "pure Evolution V3-inpainting(105262)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=105262",
+        "publishedAt": "2023-08-22T10:00:18.859Z",
+        "downloadUrl": "https://civitai.com/api/download/models/105262"
+      },
+      {
+        "versionName": "pure Evolution V2(101593)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=101593",
+        "publishedAt": "2023-08-22T10:00:27.070Z",
+        "downloadUrl": "https://civitai.com/api/download/models/101593"
+      },
+      {
+        "versionName": "pure Evolution(94744)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=94744",
+        "publishedAt": "2023-08-22T10:00:46.158Z",
+        "downloadUrl": "https://civitai.com/api/download/models/94744"
+      },
+      {
+        "versionName": "pure Evolution-inpainting(96863)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=96863",
+        "publishedAt": "2023-08-22T10:00:51.521Z",
+        "downloadUrl": "https://civitai.com/api/download/models/96863"
+      },
+      {
+        "versionName": "new Century(91662)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=91662",
+        "publishedAt": "2023-08-22T10:01:00.434Z",
+        "downloadUrl": "https://civitai.com/api/download/models/91662"
+      },
+      {
+        "versionName": "new Era(67990)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=67990",
+        "publishedAt": "2023-08-22T10:01:06.397Z",
+        "downloadUrl": "https://civitai.com/api/download/models/67990"
+      },
+      {
+        "versionName": "new Age(48174)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=48174",
+        "publishedAt": "2023-08-22T10:01:12.084Z",
+        "downloadUrl": "https://civitai.com/api/download/models/48174"
+      },
+      {
+        "versionName": "v1(30761)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=30761",
+        "publishedAt": "2023-08-22T10:01:49.605Z",
+        "downloadUrl": "https://civitai.com/api/download/models/30761"
+      },
+      {
+        "versionName": "v1-inpainting(31799)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=31799",
+        "publishedAt": "2023-08-22T10:01:45.455Z",
+        "downloadUrl": "https://civitai.com/api/download/models/31799"
+      },
+      {
+        "versionName": "v1-pix2pix(31859)",
+        "modalUrl": "https://civitai.com/models/25694?modelVersionId=31859",
+        "publishedAt": "2023-08-22T10:01:59.141Z",
+        "downloadUrl": "https://civitai.com/api/download/models/31859"
+      }
+    ]
+  },
+  {
+    "modelName": "ReV Animated(7371)",
+    "versionName": "V2 Rebirth",
+    "createdBy": "Zovya",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21ce4d5d-c777-483c-9f43-2982068bd370/width=450/9038033.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://avatars.githubusercontent.com/u/110301217?v=4",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "anime",
+      "base model",
+      "illustration",
+      "cartoon",
+      "fantasy",
+      "portraits"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/425083",
+    "meta": "pretty 1girl, absurdres, 8k uhd, platinum blonde hair, bob cut, medium breasts, black tshirt, denim shorts, garden background, flowers, magnolias, apple tree, close up portrait\nNegative prompt: 3d, cartoon, anime, sketches, (worst quality, bad quality, child, cropped:1.4) ((monochrome)), ((grayscale)),  (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8),  (bad-artist-anime:0.8), (bad-artist:0.8), (bad_prompt:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8),  (bad_quality:0.8)\nSteps: 30, Size: 512x768, Seed: 1514816117, Sampler: DPM++ 2M Karras, CFG scale: 8.5, Clip skip: 2, Hires Upscaler: 4x_foolhardy_Remacri",
+    "imageId": 506098,
+    "modelVersions": [
+      {
+        "versionName": "V2 Rebirth(425083)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=425083",
+        "publishedAt": "2024-04-02T21:42:00.897Z",
+        "downloadUrl": "https://civitai.com/api/download/models/425083"
+      },
+      {
+        "versionName": "V2 Pruned(474453)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=474453",
+        "publishedAt": "2024-04-29T04:08:11.244Z",
+        "downloadUrl": "https://civitai.com/api/download/models/474453"
+      },
+      {
+        "versionName": "V2 Rebirth+VAE(428862)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=428862",
+        "publishedAt": "2024-04-04T22:35:03.313Z",
+        "downloadUrl": "https://civitai.com/api/download/models/428862"
+      },
+      {
+        "versionName": "v1.2.2-EOL(46846)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=46846",
+        "publishedAt": "2023-04-16T07:42:54.747Z",
+        "downloadUrl": "https://civitai.com/api/download/models/46846"
+      },
+      {
+        "versionName": "v1.2.1-inp(43978)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=43978",
+        "publishedAt": "2023-04-12T19:49:10.844Z",
+        "downloadUrl": "https://civitai.com/api/download/models/43978"
+      },
+      {
+        "versionName": "v1.2.1(40248)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=40248",
+        "publishedAt": "2023-04-08T19:20:02.665Z",
+        "downloadUrl": "https://civitai.com/api/download/models/40248"
+      },
+      {
+        "versionName": "v1.1-inpainting(22258)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=22258",
+        "publishedAt": "2023-03-12T21:04:23.692Z",
+        "downloadUrl": "https://civitai.com/api/download/models/22258"
+      },
+      {
+        "versionName": "v1.1(19575)",
+        "modalUrl": "https://civitai.com/models/7371?modelVersionId=19575",
+        "publishedAt": "2023-03-06T20:25:58.321Z",
+        "downloadUrl": "https://civitai.com/api/download/models/19575"
+      }
+    ]
+  },
+  {
+    "modelName": "MeinaMix(7240)",
+    "versionName": "Meina V11",
+    "createdBy": "Meina",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d0c38bc9-bc80-458a-93f6-550cac33b7ab/width=450/1586920.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad94d33f-9dba-4dfc-8a9c-346b12ca61d3/width=96/Meina.jpeg",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "anime",
+      "sexy",
+      "female",
+      "inpainting",
+      "mix",
+      "base model",
+      "model",
+      "illustration",
+      "2d",
+      "artstyle",
+      "portraits",
+      "semi-realistic",
+      "landscape",
+      "styles"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/119057",
+    "meta": "1girl, japanese clothes, ponytail ,white hair, purple eyes, magic circle, blue fire, blue flames, wallpaper, landscape, blood, blood splatter, depth of field, night, light particles, light rays, sidelighting, thighs, fate \\(series\\), genshin impact, ****, open jacket, skirt, thighhighs, cloud\nNegative prompt: (worst quality:1.6, low quality:1.6), (zombie, sketch, interlocked fingers, comic)\nSteps: 30, Size: 512x1024, Seed: 3474686987, Sampler: DPM++ 2M Karras, CFG scale: 7, Clip skip: , Hires Upscaler: R-ESRGAN 4x+ Anime6B",
+    "imageId": 1586920,
+    "modelVersions": [
+      {
+        "versionName": "Meina V11(119057)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=119057",
+        "publishedAt": "2023-07-16T17:11:12.591Z",
+        "downloadUrl": "https://civitai.com/api/download/models/119057"
+      },
+      {
+        "versionName": "V11-inpainting(120702)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=120702",
+        "publishedAt": "2023-07-18T23:35:11.303Z",
+        "downloadUrl": "https://civitai.com/api/download/models/120702"
+      },
+      {
+        "versionName": "V11 - CKPT(119951)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=119951",
+        "publishedAt": "2023-07-17T22:47:18.726Z",
+        "downloadUrl": "https://civitai.com/api/download/models/119951"
+      },
+      {
+        "versionName": "Meina V10(80511)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=80511",
+        "publishedAt": "2023-05-25T08:04:30.305Z",
+        "downloadUrl": "https://civitai.com/api/download/models/80511"
+      },
+      {
+        "versionName": "V10 - CKPT(91193)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=91193",
+        "publishedAt": "2023-06-07T17:45:03.016Z",
+        "downloadUrl": "https://civitai.com/api/download/models/91193"
+      },
+      {
+        "versionName": "Meina V9(46137)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=46137",
+        "publishedAt": "2023-04-15T07:36:16.857Z",
+        "downloadUrl": "https://civitai.com/api/download/models/46137"
+      },
+      {
+        "versionName": "Meina V8(20322)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=20322",
+        "publishedAt": "2023-03-08T15:59:48.771Z",
+        "downloadUrl": "https://civitai.com/api/download/models/20322"
+      },
+      {
+        "versionName": "Meina V7(16925)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=16925",
+        "publishedAt": "2023-03-01T03:29:12.953Z",
+        "downloadUrl": "https://civitai.com/api/download/models/16925"
+      },
+      {
+        "versionName": "Meina V6(15306)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=15306",
+        "publishedAt": "2023-02-25T16:18:04.250Z",
+        "downloadUrl": "https://civitai.com/api/download/models/15306"
+      },
+      {
+        "versionName": "Meina V5.1(13434)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=13434",
+        "publishedAt": "2023-02-21T08:12:48.640Z",
+        "downloadUrl": "https://civitai.com/api/download/models/13434"
+      },
+      {
+        "versionName": "Meina V5.1 - Without VAE(13435)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=13435",
+        "publishedAt": "2023-02-21T08:12:48.640Z",
+        "downloadUrl": "https://civitai.com/api/download/models/13435"
+      },
+      {
+        "versionName": "Meina V5(12745)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=12745",
+        "publishedAt": "2023-02-19T19:17:02.272Z",
+        "downloadUrl": "https://civitai.com/api/download/models/12745"
+      },
+      {
+        "versionName": "Meina V5 - Without VAE(12746)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=12746",
+        "publishedAt": "2023-02-19T19:17:02.272Z",
+        "downloadUrl": "https://civitai.com/api/download/models/12746"
+      },
+      {
+        "versionName": "Meina V4.1(11187)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=11187",
+        "publishedAt": "2023-02-16T12:59:05.832Z",
+        "downloadUrl": "https://civitai.com/api/download/models/11187"
+      },
+      {
+        "versionName": "Meina V4(10320)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=10320",
+        "publishedAt": "2023-02-14T11:12:56.958Z",
+        "downloadUrl": "https://civitai.com/api/download/models/10320"
+      },
+      {
+        "versionName": "Meina V4 - Without VAE(10770)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=10770",
+        "publishedAt": "2023-02-15T12:05:35.180Z",
+        "downloadUrl": "https://civitai.com/api/download/models/10770"
+      },
+      {
+        "versionName": "Meina V3.0(9119)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=9119",
+        "publishedAt": "2023-02-10T01:56:21.148Z",
+        "downloadUrl": "https://civitai.com/api/download/models/9119"
+      },
+      {
+        "versionName": "Meina V2.1(8630)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=8630",
+        "publishedAt": "2023-02-08T06:37:51.768Z",
+        "downloadUrl": "https://civitai.com/api/download/models/8630"
+      },
+      {
+        "versionName": "MeinaV2 - Without VAE(8510)",
+        "modalUrl": "https://civitai.com/models/7240?modelVersionId=8510",
+        "publishedAt": "2023-02-07T17:19:06.303Z",
+        "downloadUrl": "https://civitai.com/api/download/models/8510"
+      }
+    ]
+  },
+  {
+    "modelName": "CyberRealistic(15003)",
+    "versionName": "v5.0",
+    "createdBy": "Cyberdelia",
+    "imageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1ef45916-0a28-4960-8dc4-eadaaeee7fdb/width=450/13963934.jpeg",
+    "nsfw": false,
+    "ratingCount": 0,
+    "creatorImageUrl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/67778471-8dfe-4456-075a-e181f217c100/width=96/Cyberdelia.jpeg",
+    "baseModel": "SD 1.5",
+    "tags": [
+      "photorealistic",
+      "female",
+      "highly detailed",
+      "base model",
+      "beautiful",
+      "male",
+      "photorealism",
+      "realistic"
+    ],
+    "downloadUrl": "https://civitai.com/api/download/models/537505",
+    "meta": "waystone, ultra detailed fantasy, elden ring, realistic, dnd, rpg, lotr game design fanart by concept art, behance hd, artstation, deviantart, global illumination radiating a glowing aura global illumination ray tracing hdr render in unreal engine 5\nNegative prompt: (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, disconnected limbs, mutation, mutated, ugly, disgusting, amputation\nSteps: 25, Size: 512x768, Seed: 1514132507, Sampler: DPM++ 2M, CFG scale: 7, Clip skip: , Hires Upscaler: 4x_foolhardy_Remacri",
+    "imageId": 13966721,
+    "modelVersions": [
+      {
+        "versionName": "v5.0(537505)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=537505",
+        "publishedAt": "2024-05-29T18:51:47.864Z",
+        "downloadUrl": "https://civitai.com/api/download/models/537505"
+      },
+      {
+        "versionName": "v4.2(372799)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=372799",
+        "publishedAt": "2024-03-03T21:51:55.068Z",
+        "downloadUrl": "https://civitai.com/api/download/models/372799"
+      },
+      {
+        "versionName": "v4.2-Inpainting(410468)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=410468",
+        "publishedAt": "2024-03-25T13:21:50.963Z",
+        "downloadUrl": "https://civitai.com/api/download/models/410468"
+      },
+      {
+        "versionName": "V4.1 \"Back to Basics\"(256915)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=256915",
+        "publishedAt": "2023-12-09T19:41:05.057Z",
+        "downloadUrl": "https://civitai.com/api/download/models/256915"
+      },
+      {
+        "versionName": "v4.1-Inpainting(256955)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=256955",
+        "publishedAt": "2023-12-09T19:41:07.107Z",
+        "downloadUrl": "https://civitai.com/api/download/models/256955"
+      },
+      {
+        "versionName": "v4.0(198401)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=198401",
+        "publishedAt": "2023-10-25T14:10:20.295Z",
+        "downloadUrl": "https://civitai.com/api/download/models/198401"
+      },
+      {
+        "versionName": "v3.3(138176)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=138176",
+        "publishedAt": "2023-09-13T16:52:47.956Z",
+        "downloadUrl": "https://civitai.com/api/download/models/138176"
+      },
+      {
+        "versionName": "v3.3-Inpainting(140174)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=140174",
+        "publishedAt": "2023-09-13T16:53:33.362Z",
+        "downloadUrl": "https://civitai.com/api/download/models/140174"
+      },
+      {
+        "versionName": "v3.2(114429)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=114429",
+        "publishedAt": "2023-09-13T16:53:35.611Z",
+        "downloadUrl": "https://civitai.com/api/download/models/114429"
+      },
+      {
+        "versionName": "v3.1(89680)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=89680",
+        "publishedAt": "2023-09-13T16:53:07.363Z",
+        "downloadUrl": "https://civitai.com/api/download/models/89680"
+      },
+      {
+        "versionName": "v3.0(79754)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=79754",
+        "publishedAt": "2023-09-13T16:53:04.962Z",
+        "downloadUrl": "https://civitai.com/api/download/models/79754"
+      },
+      {
+        "versionName": "v2.1(63401)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=63401",
+        "publishedAt": "2023-09-13T16:53:01.872Z",
+        "downloadUrl": "https://civitai.com/api/download/models/63401"
+      },
+      {
+        "versionName": "v2.0(55015)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=55015",
+        "publishedAt": "2023-09-13T16:53:43.682Z",
+        "downloadUrl": "https://civitai.com/api/download/models/55015"
+      },
+      {
+        "versionName": "v1.4(50682)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=50682",
+        "publishedAt": "2023-09-13T16:52:57.440Z",
+        "downloadUrl": "https://civitai.com/api/download/models/50682"
+      },
+      {
+        "versionName": "V1.3(32492)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=32492",
+        "publishedAt": "2023-09-13T16:52:55.211Z",
+        "downloadUrl": "https://civitai.com/api/download/models/32492"
+      },
+      {
+        "versionName": "V1.2(18154)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=18154",
+        "publishedAt": "2023-09-13T16:52:45.459Z",
+        "downloadUrl": "https://civitai.com/api/download/models/18154"
+      },
+      {
+        "versionName": "V1.1(17677)",
+        "modalUrl": "https://civitai.com/models/15003?modelVersionId=17677",
+        "publishedAt": "2023-09-13T16:52:41.264Z",
+        "downloadUrl": "https://civitai.com/api/download/models/17677"
+      }
+    ]
+  }
+]
