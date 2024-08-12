@@ -32,10 +32,10 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-"https://huggingface.co/Comfy-Org/flux1-schnell/resolve/main/flux1-schnell-fp8.safetensors"
+#"https://huggingface.co/Comfy-Org/flux1-schnell/resolve/main/flux1-schnell-fp8.safetensors"
 "https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors"
-"https://huggingface.co/silveroxides/flux1-nf4-weights/resolve/main/flux1-schnell-bnb-nf4.safetensors"
-"https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp16.safetensors"
+#"https://huggingface.co/silveroxides/flux1-nf4-weights/resolve/main/flux1-schnell-bnb-nf4.safetensors"
+#"https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp16.safetensors"
 "https://civitai.com/api/download/models/501240"
 )
 
